@@ -1,0 +1,5 @@
+{"sensor_id": 1, "temperature": 22.5, "humidity": 45.0, "timestamp": "2026-10-19T10:00:00"}
+{"sensor_id": 2, "temperature": 24.0, "humidity": 50.0, "timestamp": "2026-10-19T10:01:00"}
+{"sensor_id": 1, "temperature": 23.0, "humidity": 46.0, "timestamp": "2026-10-19T10:02:00"}
+{"sensor_id": 3, "temperature": 21.0, "humidity": 40.0, "timestamp": "2026-10-19T10:03:00"}
+{"sensor_id": 2, "temperature": 25.0, "humidity": 52.0, "timestamp": "2026-10-19T10:04:00"}
